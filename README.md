@@ -41,6 +41,13 @@
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
+<a href="https://react.dev/reference/react/useContext" target="_blank">
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<a href="https://redux-toolkit.js.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
 
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
