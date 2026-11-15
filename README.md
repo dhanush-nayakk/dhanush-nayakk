@@ -132,7 +132,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanush-devv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dhanush-dnayakk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
@@ -146,7 +146,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
   <img width="12" /> 
-  <a href="https://github.com/dhanush-devv" target="blank">
+  <a href="https://github.com/dhanush-nayakk" target="blank">
     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" width="40" style="filter: invert(1);" />
   </a>
 </p>
